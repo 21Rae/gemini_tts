@@ -1,5 +1,5 @@
 import React from 'react';
-import { Mic, Play, Loader2, Download, RotateCcw } from 'lucide-react';
+import { Mic, Play, Loader2, Download } from 'lucide-react';
 import { VoiceName, VOICE_OPTIONS, VoiceOption } from '../types';
 
 interface ControlPanelProps {
