@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Voice Studio",
+  "description": "A professional text-to-speech converter powered by Gemini 2.5 Flash, featuring multiple neural voices and real-time audio visualization.",
+  "requestFramePermissions": []
+}
